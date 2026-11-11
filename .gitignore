@@ -1,0 +1,14 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Compiled Java files
+out/
+*.class
+
+# Private configuration
+.env
+config.properties
+
+# Database exports
+*.sql
